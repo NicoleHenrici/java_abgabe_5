@@ -1,0 +1,14 @@
+.DS_Store
+
+# IDE
+.vscode
+
+# jEnv
+.java-version
+
+# Database - Apache Derby
+/tpl5/
+derby.log
+
+# Build
+target/
